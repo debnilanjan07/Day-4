@@ -1,0 +1,77 @@
+.child1 {
+    height: 150px;
+    width: 150px;
+    border: 2px solid red;
+    display: inline;
+}
+
+.c {
+    height: 150px;
+    width: 150px;
+    border: 2px solid red;
+    display: block;
+}
+
+.child {
+    display: inline-block;
+    padding: 10px;
+    border: 5px solid red;
+}
+
+
+
+.child3 {
+    display: none;
+
+}
+
+.child4 {
+    padding: 10px;
+    border: 5px solid red;
+}
+
+.child5 {
+    padding: 10px;
+    border: 5px solid red;
+}
+
+.parent {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.a {
+    height: 80px;
+    width: 80px;
+
+    border: 5px solid red;
+}
+
+.fg {
+
+    display: flex;
+    flex-direction: row-reverse;
+
+
+}
+
+.b {
+    height: 50px;
+    width: 350px;
+    border: 2px solid #ff0000;
+
+
+}
+
+.zx {
+
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.e {
+    height: 50px;
+    width: 350px;
+    border: 2px solid #ff0000;
+}
